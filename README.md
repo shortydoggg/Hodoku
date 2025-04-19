@@ -1,5 +1,7 @@
 # Hodoku version 2.2
-![Image2](https://github.com/user-attachments/assets/4d3fb927-a784-4373-ac46-1a0268fea513)
+<img src="https://github.com/user-attachments/assets/bda2e31a-6791-464d-97e9-a15626b7ed8c" width="33%" height="33%">
+
+
 
 Hodoku is a Sudoku playing/learning Java application that can be compiled into a portable jar file.  
 
