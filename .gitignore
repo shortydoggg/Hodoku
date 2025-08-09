@@ -1,0 +1,12 @@
+dist/
+Output/
+*.jar
+*.exe
+*.zip
+*.7z
+setup/FLAG
+setup/scratch/
+setup/old/
+setup/Output_folder.bat
+setup/remove_build.bat
+launch4j/scratch/
